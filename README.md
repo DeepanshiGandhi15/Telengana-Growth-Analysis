@@ -1,6 +1,7 @@
 # PROJECT NAME :  Telengana-Growth-Analysis
 
-## DESCRIPTION : Utilized district data and a range of tools including DAX, Data Transformation, and Excel's advanced techniques
+## DESCRIPTION :<br> <br>
+Utilized district data and a range of tools including DAX, Data Transformation, and Excel's advanced techniques
 for data cleaning to create insightful reports, enhancing
 user interaction with visuals like slicers, Play Axis, and
 Scroller. <br> <br> Developed an interactive dashboard enabling users to
